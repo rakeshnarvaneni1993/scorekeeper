@@ -1,2 +1,5 @@
 # scorekeeper
-This is a Javascript app that lets you keep the score entered in the text field.
+This is my first Javascript project.
+THis app lets you keep the score entered in the text field.
+Once a player reaches the score, the score turns green.
+
